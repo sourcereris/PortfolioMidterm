@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  KMatrix4.cpp
+  KPolygon.cpp
+  KVector2.cpp
+  KVector3.cpp
+  KVectorUtil.cpp
+  LinearAlgebra.cpp
+  Generating Code...
+  LinearAlgebra Step09 Perspective Projection 2.vcxproj -> D:\GameDev\UnderstandingUnity\LinearAlgebra\x64\Debug\LinearAlgebra Step09 Perspective Projection 2.exe
