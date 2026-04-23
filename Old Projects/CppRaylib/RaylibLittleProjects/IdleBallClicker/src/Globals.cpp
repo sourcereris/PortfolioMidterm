@@ -1,0 +1,4 @@
+
+
+int ballCount;
+int score;
