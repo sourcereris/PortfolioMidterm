@@ -1,9 +1,0 @@
-syntax: glob
-GameClient/Debug/*
-GameClient/Release/*
-GameServer/Debug/*
-GameServer/Release/*
-*.suo
-*.obj
-*.ilk
-*.opensdf
